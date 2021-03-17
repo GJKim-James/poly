@@ -21,6 +21,7 @@ public class Ex03_12 {
 		System.out.println("d : " + d + " | d의 숫자값 : " + (int) d);
 		System.out.println("e : " + e + " | e의 숫자값 : " + (int) e);
 
+
 	}
 
 }

@@ -13,6 +13,7 @@ public class Ex03_07 {
 		System.out.println("a의 값 ==> "+ a);
 		System.out.println("b의 값 ==> "+ b);
 
+
 	}
 
 }
