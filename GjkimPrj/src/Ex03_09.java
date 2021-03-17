@@ -14,6 +14,7 @@ public class Ex03_09 {
 		System.out.println("b : " + b);
 		System.out.println("c : " + c);
 		System.out.println("d : " + d);
+		System.out.println("");
 		
 		a = b = c = d = 100;
 		
@@ -21,6 +22,7 @@ public class Ex03_09 {
 		System.out.println("b : " + b);
 		System.out.println("c : " + c);
 		System.out.println("d : " + d);
+		System.out.println("");
 		
 		a = 100;
 		a = a + 200;
