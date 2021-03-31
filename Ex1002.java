@@ -1,6 +1,5 @@
-package problemset;
 
-public class Q1002 {
+public class Ex1002 {
 
 	public static void main(String[] args) {
 		
